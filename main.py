@@ -12,7 +12,7 @@ fortune-cookie shape. The line is a warning, not a punchline: it reads
 like something cracked open from a cookie, not a slogan.
 
 Invented, not a real incident: no real pull request, reviewer or codebase
-appears in it. 78 characters, under the 120-char cap.
+appears in it. 76 characters, under the 120-char cap.
 """
 
 import os
